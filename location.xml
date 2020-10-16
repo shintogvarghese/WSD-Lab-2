@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="location.xsl" ?>
+<catalog>
+    <cd>
+        <PLACE>Indiranagar</PLACE>
+        <ADDRESS>2nd Floor, JK Plaza, 788, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038</ADDRESS>
+    </cd>
+
+    <cd>
+        <PLACE>Banashankari</PLACE>
+        <ADDRESS>Building No.617 , 100 feet Ring road, Next to Devegowda Petrol Pump, Banashankari, Bengaluru, Karnataka 560085</ADDRESS>
+    </cd>
+
+    <cd>
+        <PLACE>Purasaiwakkam</PLACE>
+        <ADDRESS>72, Medavakkam Tank Rd, Sanyasipuram, Purasaiwakkam, Chennai, Tamil Nadu 600010</ADDRESS>
+    </cd>
+
+    <cd>
+        <PLACE>Ambattur</PLACE>
+        <ADDRESS>126, Cholambedu Rd, Srinagar Colony, Shobha Nagar, Tamarai Nagar, Ambattur, Chennai, Tamil Nadu 600109</ADDRESS>
+    </cd>
+
+    <cd>
+        <PLACE>Thirumullaivoyal</PLACE>
+        <ADDRESS>Ettiammai Nagar, Yamuna Nagar, Gandhi Nagar, Thirumullaivoyal, Chennai, Tamil Nadu 600062</ADDRESS>
+    </cd>
+</catalog>
